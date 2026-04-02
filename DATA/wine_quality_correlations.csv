@@ -1,0 +1,11 @@
+Rank,Feature,Correlation
+1,alcohol,48%
+2,volatile acidity,-40%
+3,sulphates,25%
+4,citric acid,23%
+5,density,-18%
+6,total sulfur dioxide,-18%
+7,chlorides,-13%
+8,fixed acidity,12%
+9,pH,-6%
+10,free sulfur dioxide,-5%
